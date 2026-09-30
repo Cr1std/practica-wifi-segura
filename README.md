@@ -65,11 +65,11 @@ Content-Encoding: gzip
 
 **Solicitud `GET` capturada con Wireshark:** se leen el método, el host, la URI y todos los headers en texto plano.
 
-![Solicitud GET capturada con Wireshark](wireshark-get-online.png)
+<img width="960" height="530" alt="wireshark-get-online" src="https://github.com/user-attachments/assets/edc41d62-cd53-4a79-9fa9-808bb8af4d74" />
 
 **Respuesta `200 OK` del servidor:** el contenido de la página también viaja legible.
 
-![Respuesta 200 OK capturada con Wireshark](wireshark-200-ok.png)
+<img width="960" height="478" alt="wireshark-200-ok" src="https://github.com/user-attachments/assets/9bac5571-8b59-40f8-9867-623a85e77a5c" />
 
 ### Información que puede observarse durante la solicitud
 
