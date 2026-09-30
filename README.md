@@ -1,11 +1,3 @@
-# Informe de Auditoría de Red Wi-Fi Insegura
-
-**Autor:** Christian Lange  
-**Fecha:** 29 de septiembre de 2026  
-**Rol:** Auditor de seguridad junior (ejercicio práctico)
-
----
-
 ## Introducción
 
 Cuando una persona se conecta a la Wi-Fi de una cafetería o de un aeropuerto, comparte el "aire" con decenas de desconocidos. Todo lo que su computadora envía viaja como paquetes de datos que pueden ser observados por otros usuarios de la misma red.
